@@ -23,7 +23,15 @@ Git-förråd
 Nästa blir IOT endpoint: Det gör jag under, jag gjorde först installation av Ascii som såg ut så här med massa rader
 
 Under AWS console har jag created thing och certificate. nu under policies har jag fastnat lite på hur jag ska göra färdig det. 
-Det visar malfunktioned policies
+Det visar malfunktioned policies. Här hade jag fastnat på länge tills jag kunde göra om policy, gjorde om certifikak, gjorde download, Kopierade, kliistra i filen som heter cert:
+Gjorde rename, device.pem.crt
+RSA klistrade jag på cert mapp och byt namn på den., Dopte om root till Amazon
+gjorde download och byt namn på public key or private key.
+och byte Region till US-east.1. Den gjorde jag om där det fanns Region. byt discount ID till nummer som jag hade under min AWS profil.
 
+Sedan kommer jag till consolen och skriver in den här kommando: cd ~/aws-iot-device-sdk-python-v2/samples
+python3 pubsub.py --topic test/topic --ca_file ~/certs/Amazon-root-CA-1.pem --cert ~/certs/device.pem.crt --key ~/certs/private.pem.key --endpoint your-iot-endpoint" för att göra Subscribe to the topic, test/topic. 
+
+After att har gjort det så fick jag 10 recieved messages och 10 messages sent.
 
 
