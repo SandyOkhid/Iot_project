@@ -1,3 +1,4 @@
+![Iotproject](https://user-images.githubusercontent.com/94047075/207590719-65581173-c96c-419a-b612-d6092f433391.png)
 # Iot_project. 
 Viktiga förklaringar: Syftet med kursen är att förstå hur IoT-lösningar är uppbyggda och hur de olika komponenterna knyts ihop till en helhet.
 Efter kursen ska studenten ha en förståelse och kunskap om hur devices knyts till en molntjänst (provisioning), hur de administreras (decvice management) och hur grundläggande molntjänster används för att bygga en tjänst som tillhandahåller och visualiserar insamlad data.” ”Målet med kursen är att student ska kunna skapa en grundläggande arkitektur för en IoT-lösning utifrån krav som studenten själv kan ställa upp från ett hypotetiskt business case. 
