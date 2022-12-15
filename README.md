@@ -3,6 +3,9 @@
 Viktiga förklaringar: Syftet med kursen är att förstå hur IoT-lösningar är uppbyggda och hur de olika komponenterna knyts ihop till en helhet.
 Efter kursen ska studenten ha en förståelse och kunskap om hur devices knyts till en molntjänst (provisioning), hur de administreras (decvice management) och hur grundläggande molntjänster används för att bygga en tjänst som tillhandahåller och visualiserar insamlad data.” ”Målet med kursen är att student ska kunna skapa en grundläggande arkitektur för en IoT-lösning utifrån krav som studenten själv kan ställa upp från ett hypotetiskt business case. 
 Vidare jag skall Jag kunna realisera lösningen på någon befintlig molnplattform och simulera data för lösningen.
+AWS IOT:
+ESP32![image](https://user-images.githubusercontent.com/94047075/207983546-08c9e09c-cc5d-4d87-8d16-96555c3ed073.png)
+
 
 IAAS, Infrastructure-as-a-service, eller IaaS, är ett steg bort från lokal infrastruktur. Det är en pay-as-you-go-tjänst där en tredje part förser dig med infrastrukturtjänster,
 som lagring och virtualisering, när du behöver dem, via ett moln, via internet
