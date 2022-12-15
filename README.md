@@ -12,6 +12,13 @@ lösningsstack eller tjänst via en internetanslutning.
 
 AWS: Offentliga molnleverantörer som AWS, Microsoft Azure och Google Cloud är exempel på IaaS. och PAAS.
 
+IOT: Internet of things (IoT) som det kallas, beskriver fysiska objekt (eller grupper av sådana objekt) med sensorer, bearbetningsförmåga, 
+mjukvara och annan teknik som ansluter och utbyter data med andra enheter och system över Internet eller andra kommunikationsnätverk.
+![image](https://user-images.githubusercontent.com/94047075/207977406-19a3211b-f9ee-49a8-aab7-9d708b1a4c1e.png)
+﻿
+
+
+
 Install Git, Python, and the AWS IoT Device SDK for Python: Här installera jag git, python och AWs för ens computer.:This document provides instructions for
 installing and configuring the AWS IoT Device SDK for Python. It includes examples demonstrating the use of the SDK
 
